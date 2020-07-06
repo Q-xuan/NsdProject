@@ -1,0 +1,13 @@
+C:\Users\A_rui\Desktop\NSD组项目答辩\实验\NsdProject\FrmSupermarketManagement\bin\Debug\FrmSupermarketManagement.exe
+C:\Users\A_rui\Desktop\NSD组项目答辩\实验\NsdProject\FrmSupermarketManagement\bin\Debug\FrmSupermarketManagement.pdb
+C:\Users\A_rui\Desktop\NSD组项目答辩\实验\NsdProject\FrmSupermarketManagement\obj\Debug\FrmSupermarketManagement.csprojResolveAssemblyReference.cache
+C:\Users\A_rui\Desktop\NSD组项目答辩\实验\NsdProject\FrmSupermarketManagement\obj\Debug\FrmSupermarketManagement.FrmLoading.resources
+C:\Users\A_rui\Desktop\NSD组项目答辩\实验\NsdProject\FrmSupermarketManagement\obj\Debug\FrmSupermarketManagement.Properties.Resources.resources
+C:\Users\A_rui\Desktop\NSD组项目答辩\实验\NsdProject\FrmSupermarketManagement\obj\Debug\FrmSupermarketManagement.csproj.GenerateResource.Cache
+C:\Users\A_rui\Desktop\NSD组项目答辩\实验\NsdProject\FrmSupermarketManagement\obj\Debug\FrmSupermarketManagement.exe
+C:\Users\A_rui\Desktop\NSD组项目答辩\实验\NsdProject\FrmSupermarketManagement\obj\Debug\FrmSupermarketManagement.pdb
+C:\Users\A_rui\Desktop\NSD组项目答辩\实验\NsdProject\FrmSupermarketManagement\obj\Debug\FrmSupermarketManagement.FrmLogin.resources
+C:\Users\A_rui\Desktop\NSD组项目答辩\实验\NsdProject\FrmSupermarketManagement\obj\Debug\FrmSupermarketManagement.FrmAssistant.FrmMain.resources
+C:\Users\A_rui\Desktop\NSD组项目答辩\实验\NsdProject\FrmSupermarketManagement\obj\Debug\CustomAlertBoxDemo.Form_Alert.resources
+C:\Users\A_rui\Desktop\NSD组项目答辩\实验\NsdProject\FrmSupermarketManagement\obj\Debug\CustomAlertBoxDemo.Form1.resources
+C:\Users\A_rui\Desktop\NSD组项目答辩\实验\NsdProject\FrmSupermarketManagement\obj\Debug\FrmSupermarketManagement.csprojAssemblyReference.cache
